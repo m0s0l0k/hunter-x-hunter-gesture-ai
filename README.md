@@ -10,7 +10,7 @@ The project was built as a hands-on exploration of **Computer Vision, feature en
 
 ## 🎬 Demo
 
-> Add a GIF or screenshot of the application here.
+![Hunter × Hunter Gesture AI Demo](assets/demo.gif)
 
 The application runs two windows:
 
